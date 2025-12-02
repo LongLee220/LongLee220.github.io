@@ -20,7 +20,7 @@ Advisor: Prof. Guanghui Wang [Homopage](https://faculty.sdu.edu.cn/wangguanghui1
 
 Shandong University, China
 B.Sc. in Mathematics and Applied Mathematics 
-Sept. 2015 – June 2019
+Sept. 2015 – Jun 2019
 
 ### Research Interests
 Graph Neural Networks, Topological Deep Learning, AI for Science
