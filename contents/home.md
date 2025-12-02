@@ -1,15 +1,28 @@
+He is currently a **Research Fellow** at the **School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU), Singapore)**.
 
+### Google Scholar
+[https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ](https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+### Contact
+- **Email:** longlee[at]mail.sdu.edu.cn
 
-#### Contact
+### Education
 
-Email: senli[at]fas.harvard.edu
+**Nanyang Technological University (NTU), Singapore**  
+*Visiting Student, School of Physical and Mathematical Sciences (SPMS)*  
+**Oct. 2023 – Oct. 2025**  
+Advisor: **Prof. Kelin Xia**
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+**Shandong University, China**  
+*Ph.D. Candidate in Data Science*  
+**Sept. 2019 – Dec. 2025**  
+Advisor: **Prof. Guanghui Wang**
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+**Shandong University, China**  
+*B.Sc. in Mathematics and Applied Mathematics*  
+**Sept. 2015 – June 2019**
 
+### Research Interests
+- Graph Neural Networks  
+- Topological Deep Learning  
+- AI for Science
