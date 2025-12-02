@@ -16,7 +16,7 @@ Advisor: Prof. Kelin Xia [Homopage](https://personal.ntu.edu.sg/XIAKELIN/)
 Shandong University, China 
 Ph.D. Candidate in Data Science
 Sept. 2019 – Dec. 2025  
-Advisor: Prof. Guanghui Wang [Homepage](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
+Advisor: Prof. Guanghui Wang [Homopage](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
 
 Shandong University, China
 B.Sc. in Mathematics and Applied Mathematics 
