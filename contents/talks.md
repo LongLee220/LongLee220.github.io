@@ -1,6 +1,8 @@
 ### Talks
 
-- *2025*, **Invited Talk**, “Topological Deep Learning for Molecular Graphs”, NTU SPMS Seminar, Singapore.
-- *2024*, **Conference Talk**, “Path-Complex Neural Networks”, ICML GRaM Workshop.
-- *2023*, **Invited Talk**, “Multi-Scale Harmonic Graph Neural Networks”, SDU Data Science Forum.
-- *2022*, **Seminar**, “Graph Neural Networks for Molecular Property Prediction”.
+-	The 11th Cross-Strait Conference on Graph Theory and Combinatorics. Online,
+  Talk: “K-Core Decomposition Algorithm”, 19-21 August, 2021
+- Mathematical Foundations of Communication Seminar, Hangzhou, China,
+  Talk: “Spatially Coupled Codes”, 27-28 October 2019
+
+
