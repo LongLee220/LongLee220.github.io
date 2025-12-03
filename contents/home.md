@@ -18,7 +18,7 @@ He is currently a Research Fellow at the School of Physical and Mathematical Sci
   Advisor: Prof. Guanghui Wang [Homepage](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
 
 - Shandong University, China  
-  B.Sc. in Mathematics and Applied Mathematics* 
+  B.Sc. in Mathematics and Applied Mathematics
   ept. 2015 – Jun. 2019
   
 ### Research Interests
