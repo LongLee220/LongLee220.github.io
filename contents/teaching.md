@@ -9,6 +9,5 @@
 
 - Graph Algorithms in the Language of Linear Algebra (Fall Courses 2021)  
   Online Course  
-  Role: Teaching Assistant  
-
-
+  Role: Teaching Assistant
+  
