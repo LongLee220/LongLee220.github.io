@@ -1,4 +1,4 @@
-### Talks & Conferences
+### Talks
 
 - *2025*, **Invited Talk**, “Topological Deep Learning for Molecular Graphs”, NTU SPMS Seminar, Singapore.
 - *2024*, **Conference Talk**, “Path-Complex Neural Networks”, ICML GRaM Workshop.
