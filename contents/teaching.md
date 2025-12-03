@@ -8,7 +8,7 @@
   Role: Teaching Assistant
 
 - Graph Algorithms in the Language of Linear Algebra (Fall Courses 2021)  
-  Online Course
+  Online Course  
   Role: Teaching Assistant  
 
 
