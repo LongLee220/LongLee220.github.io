@@ -7,7 +7,7 @@
   Data Science Institute, Shandong University  
   Role: Teaching Assistant
 
-- Graph Algorithms in the Language of Linear Algebra (Fall Courses 2021)
+- Graph Algorithms in the Language of Linear Algebra (Fall Courses 2021)  
   Online Course
   Role: Teaching Assistant  
 
