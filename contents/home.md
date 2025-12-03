@@ -7,15 +7,16 @@ He is currently a Research Fellow at the School of Physical and Mathematical Sci
 - **Email:** longlee[at]mail.sdu.edu.cn
 
 ### Education
-- Nanyang Technological University (NTU), Singapore Visiting Student,
-  School of Physical and Mathematical Sciences (SPMS)  
-  Oct. 2023 – Oct. 2025 
-  Advisor: Prof. Kelin Xia [[Homepage]](https://personal.ntu.edu.sg/XIAKELIN/)
-
 - Shandong University, China  
   Ph.D. Candidate in Data Science 
   Sept. 2019 – Dec. 2025 
   Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
+
+- Nanyang Technological University (NTU), Singapore
+  School of Physical and Mathematical Sciences (SPMS)
+  Visiting Student
+  Oct. 2023 – Oct. 2025 
+  Advisor: Prof. Kelin Xia [[Homepage]](https://personal.ntu.edu.sg/XIAKELIN/)
 
 - Shandong University, China  
   B.Sc. in Mathematics and Applied Mathematics
