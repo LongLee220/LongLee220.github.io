@@ -20,7 +20,7 @@ He is currently a Research Fellow at the School of Physical and Mathematical Sci
 
 - Shandong University, China  
   B.Sc. in Mathematics and Applied Mathematics
-  ept. 2015 – Jun. 2019
+  Sept. 2015 – Jun. 2019
   
 ### Research Interests
 Graph Neural Networks, Topological Deep Learning, AI for Science
