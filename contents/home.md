@@ -9,7 +9,7 @@ I am currently a Research Fellow at the School of Physical and Mathematical Scie
 ### Education
 - Shandong University, China  
   Ph.D. Candidate in Data Science  
-  Sep. 2019 – Dec. 2025  
+  Sept. 2019 – Dec. 2025  
   Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)<br>
 
 - Nanyang Technological University (NTU), Singapore  
@@ -20,7 +20,7 @@ I am currently a Research Fellow at the School of Physical and Mathematical Scie
 
 - Shandong University, China  
   B.Sc. in Mathematics and Applied Mathematics  
-  Sep. 2015 – Jun. 2019
+  Sept. 2015 – Jun. 2019
   
 ### Research Interests
 Graph Neural Networks, Topological Deep Learning, AI for Science
